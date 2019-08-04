@@ -1,0 +1,199 @@
+
+/**********************************************
+                  PAGE: NAV
+***********************************************/ 
+
+
+
+a {
+	color: white;
+	font-family: 'Lato', sans-serif;
+	font-family: 'Open Sans', sans-serif;
+	text-transform: uppercase;
+	letter-spacing: .42em;
+	font-style: normal;
+	margin-bottom: 20px;
+	font-size: 11px;
+}
+
+
+a:hover {
+	color: #eaeced;
+
+}
+
+
+/**********************************************
+                  PAGE: BODY ALL
+***********************************************/
+
+body {
+	background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+.yellow {
+	background-color: rgba(205, 150, 0, .15); 
+	background-attachment: fixed;
+	 -webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.logo {
+	height: 250px;
+    width: 280px;
+    margin-bottom: 2.5em;
+}
+
+.container {
+
+	text-align: center;
+	padding-top: 250px;
+	color: red;
+	margin: 0 480 0 250;
+	margin-bottom: 235px;
+
+}
+
+
+
+/**********************************************
+                  PAGE: ABOUT PAGE
+***********************************************/
+
+.container1 {
+	padding-top: 20px;
+}
+.justify-content-center {
+	position: sticky;
+	top: 0;
+	width: 100%;
+	padding-top: 20px;
+	color: black;
+	text-transform: uppercase;
+	letter-spacing: .42em;
+	font-style: normal;
+	margin-bottom: 20px;
+	font-size: 11px;
+}
+.container2 {
+	margin-left: 100px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 150px;
+ 
+
+}
+
+.resume-container {
+	padding-top: 200px;
+	padding-bottom: 120px;
+
+}
+
+.resume {
+	font-size: 41px;
+	color: white;
+
+}
+
+
+
+/**********************************************
+                  PAGE: CONTACT PAGE
+***********************************************/
+
+.container3 {
+  position: relative;
+  margin: auto;
+  margin-top: 10px;
+  width: 300px;
+  height: 65px;
+  background-color: black;
+  border-radius: 3px;
+
+}
+
+.contact-container {
+	margin-top: 30px;
+	margin-left: 18%;
+}
+
+.center-div {
+  text-align: center;
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 500px;
+  height: 150px;
+  background-color: white;
+  border-radius: 3px;
+  color: black;
+	font-family: 'Lato', sans-serif;
+	font-family: 'Open Sans', sans-serif;
+	text-transform: uppercase;
+	letter-spacing: .42em;
+	font-style: normal;
+	font-size: 11px;
+}
+
+.email-text {
+	color: black;
+}
+
+
+/**********************************************
+                  PAGE: FOOTER ALL
+***********************************************/ 
+
+
+footer {
+
+  font-size: 0.75em;
+  text-align: center;
+  clear: both;
+  padding-top: 10px;
+  color: #ccc;
+  padding-bottom: 80px;
+
+}
+
+.social-icon {
+  width: 35px;
+  height: 35px;
+  margin: 0 5px;
+}
+
+
+/**********************************************
+                  RESPONSIVE
+***********************************************/ 
+
+
+/* Responsive layout - when the screen is less than 600px wide */
+@media screen and (max-width: 600px) {
+  .column, input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
