@@ -1,0 +1,30 @@
+@media screen and (min-width: 480px) {
+  
+  /*******************************
+  TWO COLUMN LAYOUT
+  ********************************/
+  
+body {
+    background-size: cover; 
+  }
+
+  
+  
+  
+}
+
+@media screen and (min-width: 660px) {
+  
+  /*******************************
+  HEADER
+  ********************************/
+  
+
+
+
+  body {
+    background-size: cover; 
+
+  }
+  
+} 
