@@ -1,47 +1,23 @@
-@media screen and (min-width: 480px) {
-  
-  /*******************************
-  TWO COLUMN LAYOUT
-  ********************************/
-  
-body {
-    background-size: cover; 
-  }
 
-
+@media screen and (max-width: 660px) {
   
-  
-  /*******************************
-  PAGE: PODCAST
-  ********************************/
-  
-  
-  
-  /*******************************
-  PAGE: ABOUT
-  ********************************/
-  
-  
-  
-}
-
-@media screen and (min-width: 660px) {
-  
-  /*******************************
-  HEADER
-  ********************************/
-  
-
-
-
-  nav {
-
-  }
-  
-
+ 
   body {
-    background-size: cover; 
-
+    /*background-size: cover; */
+      max-width: 100%;
+  height: auto;
   }
-  
+  .resume-container   {
+    padding-right: 100px;
+  }
+  .container2 {
+    margin-left: -1.5em;
+  }
+  .project-image img {
+    max-width: 100%;
+    height: auto;
+  }
+  .project {
+    margin : 15px;
+  }
 } 
