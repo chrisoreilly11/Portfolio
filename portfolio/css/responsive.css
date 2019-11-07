@@ -1,7 +1,27 @@
+@media screen and (max-width: 955px) {
+ 
+  body {
+    /*background-size: cover; */
+      max-width: 100%;
+  height: auto;
+  }
+  .resume-container   {
+    padding-right: 100px;
+  }
+  .container2 {
+    margin-left: -1.5em;
+  }
+  .project-image img {
+    max-width: 100%;
+    height: auto;
+  }
+  .project {
+    margin : 15px;
+  }   
+} 
 
 @media screen and (max-width: 660px) {
   
- 
   body {
     /*background-size: cover; */
       max-width: 100%;
