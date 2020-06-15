@@ -300,6 +300,7 @@ h3 {
 .project-image {
     /*float: left;*/
     background-size: cover;
+    max-width: 900px;
 }
 
 img {
