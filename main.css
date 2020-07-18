@@ -33,14 +33,14 @@ body {
     background-attachment: fixed;
 
 }
-.yellow {
+/* .yellow {
 	background-color: rgba(205, 150, 0, .15); 
 	background-attachment: fixed;
 	 -webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-}
+} */
 
 .logo {
 	height: 250px;
